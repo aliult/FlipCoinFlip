@@ -3,12 +3,19 @@ FlipCoinFlip is a minimalist online coin flip tool designed for quick decisions,
 
 ## ✨ Features
 Coin Flip – Instantly flip a virtual coin for fair, random decisions.
+
 Dice Roller – Roll one or multiple dice with accurate randomness, perfect for games or probability tasks.
+
 Spin Wheel – Create customizable wheels of options and spin to pick a winner or make group choices.
+
 Cross‑Platform – Works seamlessly on desktop, tablet, and mobile browsers without downloads.
+
 Minimalist Design – Clean, distraction‑free interface focused on usability and speed.
+
 Free & No Sign‑Up – Use all features instantly without registration or hidden costs.
+
 Reliable Randomness – Generates unbiased results for decision‑making, gaming, or fun activities.
+
 Customizable Options – Tailor dice counts, wheel segments, and labels to fit your needs.
 
 ## 🌐 Live Demo
