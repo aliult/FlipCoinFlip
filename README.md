@@ -1,35 +1,50 @@
-# FlipCoinFlip
-FlipCoinFlip is a minimalist online coin flip tool designed for quick decisions, games, and everyday randomness. No downloads, no distractions—just a clean and instant coin toss in your browser.
+# 🪙 FlipCoinFlip - The Ultimate Random Decision Toolkit
 
-## ✨ Features
-Coin Flip – Instantly flip a virtual coin for fair, random decisions.
+[![GitHub Stars](https://img.shields.io/github/stars/aliult/FlipCoinFlip?style=social)](https://github.com/aliult/FlipCoinFlip)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://flipcoinflip.com)
 
-Dice Roller – Roll one or multiple dice with accurate randomness, perfect for games or probability tasks.
+**FlipCoinFlip** is a free, web-based suite of randomization tools designed to help you overcome indecision. Whether you need a quick "Yes or No" answer or a fun way to pick your next meal, we've got you covered.
 
-Spin Wheel – Create customizable wheels of options and spin to pick a winner or make group choices.
+🔗 **Official Website:** [https://flipcoinflip.com](https://flipcoinflip.com)
 
-Cross‑Platform – Works seamlessly on desktop, tablet, and mobile browsers without downloads.
+---
 
-Minimalist Design – Clean, distraction‑free interface focused on usability and speed.
+## 🚀 Key Features & Tools
 
-Free & No Sign‑Up – Use all features instantly without registration or hidden costs.
+### 1. 🪙 Yes or No Coin Flip
+Stop overthinking and let fate decide. Our core **coin flip** tool provides an instant **Yes or No** result with fair, randomized physics. Perfect for quick daily choices.
+*   **Keywords**: Yes no button, online coin toss, flip a coin.
 
-Reliable Randomness – Generates unbiased results for decision‑making, gaming, or fun activities.
+### 2. 🎲 Random Dice Roller (1-6 & 2 Dice)
+Designed for tabletop gamers and board game enthusiasts. Our **random dice roller** supports single 1-6 dice and double dice configurations.
+*   **Keywords**: Random dice roller 1-6, 2 dice roller, online dice simulator.
 
-Customizable Options – Tailor dice counts, wheel segments, and labels to fit your needs.
+### 3. 🎡 Food Wheel Spin
+Can't decide what to eat? Use our **Food Wheel Spin** to randomize your meal choices. It’s a fun, interactive way to break the "what should we eat?" loop.
+*   **Keywords**: Food wheel spin, lunch decider, spinning wheel picker.
 
-## 🌐 Live Demo
-👉 [Try it now](https://flipcoinflip.com)
+---
 
-## 🚀 Use Cases
-- Decide between two options quickly
-- Add randomness to games or activities
-- Use as a teaching aid for probability
-- Fun and lightweight tool for everyday choices
+## 🛠️ Technical Implementation
+This project is built with a focus on:
+*   **Speed**: Lightweight JavaScript for instant randomization results.
+*   **Fairness**: Using cryptographically secure PRNG (Pseudo-Random Number Generators) where possible.
+*   **SEO Optimized**: Structured with clean meta tags and semantic HTML to ensure high visibility.
 
-## 🛠️ Tech Stack
-- Frontend: HTML / CSS / JavaScript
-- Design: Minimalist UI with accessibility in mind
+---
 
-## 📄 License
-This project is developed by an independent creator. The code is not open source and is provided for usage only.
+## 📈 SEO & Development Project
+This repository is part of an ongoing SEO experiment to optimize web tools for high-competition keywords like **food wheel spin**. We are actively monitoring metrics to improve Domain Rating (DR) and organic search traffic.
+
+### How to Use
+1. Clone the repository: `git clone https://github.com/aliult/FlipCoinFlip.git`
+2. Open the index file or visit the [live site](https://flipcoinflip.com).
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! If you have ideas for new random tools (e.g., card shufflers, number generators), feel free to open an issue or submit a pull request.
+
+---
+
+© 2026 [FlipCoinFlip.com](https://flipcoinflip.com). All rights reserved.
