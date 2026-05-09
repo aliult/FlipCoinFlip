@@ -2,6 +2,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/aliult/FlipCoinFlip?style=social)](https://github.com/aliult/FlipCoinFlip)
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://flipcoinflip.com)
+
 Live Demo: [https://aliult.github.io/FlipCoinFlip/](https://aliult.github.io/FlipCoinFlip/)
 
 **FlipCoinFlip** is a free, web-based suite of randomization tools designed to help you overcome indecision. Whether you need a quick "Yes or No" answer or a fun way to pick your next meal, we've got you covered.
