@@ -1,0 +1,29 @@
+name: Auto Build & Push Docker Image
+on:
+  push:
+    branches: [ "main" ] # 当你向 main 分支提交代码时自动触发
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          # 从 GitHub Secrets 读取，安全且不会暴露
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Build and Push Docker Image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          push: true
+          # 这里直接写死也可以，只要你的用户名没错就行
+          tags: codewithpiero/flipcoinflip-app:latest
